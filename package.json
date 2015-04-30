@@ -4,7 +4,7 @@
   "description": "pull git repositories on gitlab webhook signals.",
   "main": "main.js",
   "author": "Doojin Bek",
-  "license": "LGPL",
+  "license": "LGPL-3.0",
   "dependencies": {
     "gitlabhook": "0.0.11",
     "sprintf-js": "0.0.7"
